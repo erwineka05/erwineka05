@@ -16,7 +16,20 @@ Here are some ideas to get you started:
 -->
 🔭 I’m currently working on ...
 🌱 I’m currently learning ...
-####  Skills
+###  Skills
+##### Badge 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+</div>
+
 ##### Languages
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -35,6 +48,11 @@ Here are some ideas to get you started:
 
 ##### Music
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31bnbvwivtvd7aepjggwzre2hbse)
+
+##### Views
+<div align="center">
+  <img src="https://profile-counter.glitch.me/erwineka05/count.svg?"  />
+</div>
 
 ##### Pacman
 
