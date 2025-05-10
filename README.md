@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ##### Music
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31bnbvwivtvd7aepjggwzre2hbse)
 
-##### Loading...
+##### Pacman
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erwineka05/erwineka05/output/pacman-contribution-graph-dark.svg">
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/erwineka05/erwineka05/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+### Snake
 
 <img src="https://raw.githubusercontent.com/erwineka05/erwineka05/output/snake.svg" alt="Snake animation" />
 
