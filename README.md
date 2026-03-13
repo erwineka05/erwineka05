@@ -34,7 +34,8 @@ Here are some ideas to get you started:
 
 
 ##### My Github Stats
-![Erwin Eka's GitHub stats](https://github-readme-stats.vercel.app/api?username=erwineka05&show_icons=true&theme=midnight-purple)
+![Erwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical&count_private=true)
+
 
 ##### Views
 <div align="center">
@@ -49,7 +50,4 @@ Here are some ideas to get you started:
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/erwineka05/erwineka05/output/pacman-contribution-graph.svg">
 </picture>
 
-
-##### Music
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31bnbvwivtvd7aepjggwzre2hbse)
 
