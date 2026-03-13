@@ -1,40 +1,37 @@
-## Hello World!  Welcome To My Page 👋
 
-<!--
-**erwineka05/erwineka05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi There! 👋 I'm Erwin.
 
-Here are some ideas to get you started:
+I am an Informatics Engineering undergraduate with a strong interest in Web Development, Data Science, and Creative Coding. I enjoy building practical and impactful digital solutions, ranging from full-stack platforms for local businesses during my internship to experimenting with real-time AI interactions and machine learning models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I am open to freelance opportunities and always eager to collaborate on exciting new projects!
+* 🔭 I’m currently working on freelance opportunities and full-stack web projects.
+* 🌱 I’m currently learning deeper about Machine Learning using Python & TensorFlow, and expanding my DevOps skills.
+* 💬 Feel free to ask me about Laravel, Web Scraping, or my experience building the Forkom UMKM website.
+* 📫 How to reach me: [LinkedIn](#)
+* ⚡ Fun fact: I love coding while listening to Lo-fi Hip Hop and I'm a huge *One Piece* fan!
+
+### Tech Stack
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,php,python,tensorflow,js,html,css,mysql" />
+  </a>
+</p>
+
+### 💼 Professional Experience
+* 🏢 **Web Developer Intern:** Developed the **Forkom UMKM Website ([kalikuningbrand.com](https://kalikuningbrand.com))**, a full-stack platform built with Laravel to support local micro, small, and medium enterprises.
 🔭 I’m currently working on ...
 🌱 I’m currently learning ...
-###  Skills
-##### Badge 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-</div>
 
 ##### Connect with me
 
 
 ##### My Github Stats
-![Erwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical&count_private=true)
+<p align="left">
+<a href="https://github.com/erwineka05">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=erwineka05&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=erwineka05&layout=compact&langs_count=8&theme=midnight-purple"/>
+</a>
+</p>
 
 
 ##### Views
