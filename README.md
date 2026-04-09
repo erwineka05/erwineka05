@@ -19,8 +19,7 @@ Currently, I am open to freelance opportunities and always eager to collaborate 
 
 ### 💼 Professional Experience
 * 🏢 **Web Developer Intern:** Developed the **Forkom UMKM Website ([kalikuningbrand.com](https://kalikuningbrand.com))**, a full-stack platform built with Laravel to support local micro, small, and medium enterprises.
-🔭 I’m currently working on ...
-🌱 I’m currently learning ...
+
 
 ##### Connect with me
 
